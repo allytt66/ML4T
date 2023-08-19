@@ -1,8 +1,8 @@
-# Copyright 2020, Georgia Tech Research Corporation    
-# Atlanta, Georgia 30332-0415     
-# All Rights Reserved  
 
-Course website: http://lucylabs.gatech.edu/ml4t/
+Summer 2023 ML4T Assignment and Projects 
+
+
+
 
 
 
